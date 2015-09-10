@@ -141,31 +141,3 @@ public class MainController {
 	
 	}
 }
-
-// WCM PARAMETERS
-/*	SimulationParameters sp = new SimulationParameters(2000,  // simulation time
-													40,   // communication range
-													0.0,  // min speed
-													1,  // max speed
-													50,   // number of red zones
-													1000,  // active red zone time
-													2, 	  // min road width
-													30,   // max road width
-													100,   // visibility
-													100,  // red zone radius
-													10,	  // random move distance
-													2000);// number of humans
-*/		// GLOBECOM
-/*	SimulationParameters sp = new SimulationParameters(1000,  // simulation time
-		40,   // communication range
-		0.5,  // min speed
-		2.5,  // max speed
-		20,   // number of red zones
-		500,  // active red zone time
-		2, 	  // min road width
-		30,   // max road width
-		50,  // visibility
-		50,	  // red zone radius
-		10,	  // random move distance
-		1000);// number of humans
-*/
